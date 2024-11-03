@@ -1,0 +1,371 @@
+2024-10-16 10:28:38,667 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-16 10:28:38,669 - INFO - Detected assets: ['BTCUSD', 'ETHUSD', 'EURUSD', 'GBPUSD', 'LINKUSD', 'NEARUSD', 'SOLUSD', 'WIFUSD']
+2024-10-16 10:28:38,670 - INFO - Found raw files for BTCUSD: ['BTCUSDT_1m.csv']
+2024-10-16 10:28:44,382 - INFO - Loaded raw data for BTCUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\BTCUSD\BTCUSDT_1m.csv
+2024-10-16 10:28:44,467 - INFO - Dropped 0 rows with missing values.
+2024-10-16 10:28:44,676 - INFO - Sorted data by timestamp.
+2024-10-16 10:29:07,314 - INFO - Saved processed data for BTCUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-16 10:29:07,318 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-16 10:29:07,975 - INFO - Resampled data to frequency 5T.
+2024-10-16 10:29:14,536 - INFO - Saved processed data for BTCUSD at 5m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-16 10:29:14,538 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_15m_processed.csv
+2024-10-16 10:29:15,040 - INFO - Resampled data to frequency 15T.
+2024-10-16 10:29:17,358 - INFO - Saved processed data for BTCUSD at 15m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_15m_processed.csv
+2024-10-16 10:29:17,360 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_30m_processed.csv
+2024-10-16 10:29:17,793 - INFO - Resampled data to frequency 30T.
+2024-10-16 10:29:18,999 - INFO - Saved processed data for BTCUSD at 30m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_30m_processed.csv
+2024-10-16 10:29:19,001 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-16 10:29:19,435 - INFO - Resampled data to frequency 1H.
+2024-10-16 10:29:20,077 - INFO - Saved processed data for BTCUSD at 1H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-16 10:29:20,079 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_4H_processed.csv
+2024-10-16 10:29:20,470 - INFO - Resampled data to frequency 4H.
+2024-10-16 10:29:20,637 - INFO - Saved processed data for BTCUSD at 4H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_4H_processed.csv
+2024-10-16 10:29:20,638 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1D_processed.csv
+2024-10-16 10:29:21,081 - INFO - Resampled data to frequency 1D.
+2024-10-16 10:29:21,133 - INFO - Saved processed data for BTCUSD at 1D timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1D_processed.csv
+2024-10-16 10:29:21,136 - INFO - Found raw files for ETHUSD: ['ETHUSDT_1m.csv']
+2024-10-16 10:29:28,621 - INFO - Loaded raw data for ETHUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\ETHUSD\ETHUSDT_1m.csv
+2024-10-16 10:29:28,736 - INFO - Dropped 0 rows with missing values.
+2024-10-16 10:29:28,986 - INFO - Sorted data by timestamp.
+2024-10-16 10:30:08,109 - INFO - Saved processed data for ETHUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-16 10:30:08,119 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-16 10:30:09,257 - INFO - Resampled data to frequency 5T.
+2024-10-16 10:30:14,682 - INFO - Saved processed data for ETHUSD at 5m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-16 10:30:14,683 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_15m_processed.csv
+2024-10-16 10:30:15,063 - INFO - Resampled data to frequency 15T.
+2024-10-16 10:30:16,767 - INFO - Saved processed data for ETHUSD at 15m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_15m_processed.csv
+2024-10-16 10:30:16,768 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_30m_processed.csv
+2024-10-16 10:30:17,220 - INFO - Resampled data to frequency 30T.
+2024-10-16 10:30:18,326 - INFO - Saved processed data for ETHUSD at 30m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_30m_processed.csv
+2024-10-16 10:30:18,327 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-16 10:30:18,738 - INFO - Resampled data to frequency 1H.
+2024-10-16 10:30:19,305 - INFO - Saved processed data for ETHUSD at 1H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-16 10:30:19,307 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_4H_processed.csv
+2024-10-16 10:30:20,073 - INFO - Resampled data to frequency 4H.
+2024-10-16 10:30:20,257 - INFO - Saved processed data for ETHUSD at 4H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_4H_processed.csv
+2024-10-16 10:30:20,259 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1D_processed.csv
+2024-10-16 10:30:20,626 - INFO - Resampled data to frequency 1D.
+2024-10-16 10:30:20,670 - INFO - Saved processed data for ETHUSD at 1D timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1D_processed.csv
+2024-10-16 10:30:20,672 - INFO - Found raw files for EURUSD: ['EURUSD_1min.csv']
+2024-10-16 10:30:20,673 - ERROR - Error loading raw data for EURUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\EURUSD\EURUSD_1min.csv: No columns to parse from file
+2024-10-16 10:30:20,689 - WARNING - Received empty DataFrame for preprocessing.
+2024-10-16 10:30:20,720 - INFO - Saved processed data for EURUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_1m_processed.csv
+2024-10-16 10:30:20,723 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_5m_processed.csv
+2024-10-16 10:30:20,727 - WARNING - Cannot resample empty DataFrame with frequency 5T.
+2024-10-16 10:30:20,728 - WARNING - Resampled DataFrame for EURUSD at 5m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,729 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_15m_processed.csv
+2024-10-16 10:30:20,732 - WARNING - Cannot resample empty DataFrame with frequency 15T.
+2024-10-16 10:30:20,733 - WARNING - Resampled DataFrame for EURUSD at 15m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,735 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_30m_processed.csv
+2024-10-16 10:30:20,737 - WARNING - Cannot resample empty DataFrame with frequency 30T.
+2024-10-16 10:30:20,740 - WARNING - Resampled DataFrame for EURUSD at 30m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,743 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_1H_processed.csv
+2024-10-16 10:30:20,746 - WARNING - Cannot resample empty DataFrame with frequency 1H.
+2024-10-16 10:30:20,747 - WARNING - Resampled DataFrame for EURUSD at 1H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,748 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_4H_processed.csv
+2024-10-16 10:30:20,750 - WARNING - Cannot resample empty DataFrame with frequency 4H.
+2024-10-16 10:30:20,751 - WARNING - Resampled DataFrame for EURUSD at 4H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,753 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\EURUSD\EURUSD_1D_processed.csv
+2024-10-16 10:30:20,756 - WARNING - Cannot resample empty DataFrame with frequency 1D.
+2024-10-16 10:30:20,757 - WARNING - Resampled DataFrame for EURUSD at 1D timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,759 - INFO - Found raw files for GBPUSD: ['GBPUSD_1min.csv']
+2024-10-16 10:30:20,761 - ERROR - Error loading raw data for GBPUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\GBPUSD\GBPUSD_1min.csv: No columns to parse from file
+2024-10-16 10:30:20,763 - WARNING - Received empty DataFrame for preprocessing.
+2024-10-16 10:30:20,766 - INFO - Saved processed data for GBPUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_1m_processed.csv
+2024-10-16 10:30:20,768 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_5m_processed.csv
+2024-10-16 10:30:20,771 - WARNING - Cannot resample empty DataFrame with frequency 5T.
+2024-10-16 10:30:20,771 - WARNING - Resampled DataFrame for GBPUSD at 5m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,773 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_15m_processed.csv
+2024-10-16 10:30:20,775 - WARNING - Cannot resample empty DataFrame with frequency 15T.
+2024-10-16 10:30:20,776 - WARNING - Resampled DataFrame for GBPUSD at 15m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,778 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_30m_processed.csv
+2024-10-16 10:30:20,779 - WARNING - Cannot resample empty DataFrame with frequency 30T.
+2024-10-16 10:30:20,780 - WARNING - Resampled DataFrame for GBPUSD at 30m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,781 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_1H_processed.csv
+2024-10-16 10:30:20,785 - WARNING - Cannot resample empty DataFrame with frequency 1H.
+2024-10-16 10:30:20,788 - WARNING - Resampled DataFrame for GBPUSD at 1H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,789 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_4H_processed.csv
+2024-10-16 10:30:20,791 - WARNING - Cannot resample empty DataFrame with frequency 4H.
+2024-10-16 10:30:20,793 - WARNING - Resampled DataFrame for GBPUSD at 4H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,795 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\GBPUSD\GBPUSD_1D_processed.csv
+2024-10-16 10:30:20,797 - WARNING - Cannot resample empty DataFrame with frequency 1D.
+2024-10-16 10:30:20,798 - WARNING - Resampled DataFrame for GBPUSD at 1D timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,800 - INFO - Found raw files for LINKUSD: ['LINKUSDT_1m.csv']
+2024-10-16 10:30:20,803 - ERROR - Error loading raw data for LINKUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\LINKUSD\LINKUSDT_1m.csv: No columns to parse from file
+2024-10-16 10:30:20,806 - WARNING - Received empty DataFrame for preprocessing.
+2024-10-16 10:30:20,816 - INFO - Saved processed data for LINKUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_1m_processed.csv
+2024-10-16 10:30:20,818 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_5m_processed.csv
+2024-10-16 10:30:20,820 - WARNING - Cannot resample empty DataFrame with frequency 5T.
+2024-10-16 10:30:20,821 - WARNING - Resampled DataFrame for LINKUSD at 5m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,822 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_15m_processed.csv
+2024-10-16 10:30:20,824 - WARNING - Cannot resample empty DataFrame with frequency 15T.
+2024-10-16 10:30:20,825 - WARNING - Resampled DataFrame for LINKUSD at 15m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,827 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_30m_processed.csv
+2024-10-16 10:30:20,829 - WARNING - Cannot resample empty DataFrame with frequency 30T.
+2024-10-16 10:30:20,831 - WARNING - Resampled DataFrame for LINKUSD at 30m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,840 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_1H_processed.csv
+2024-10-16 10:30:20,844 - WARNING - Cannot resample empty DataFrame with frequency 1H.
+2024-10-16 10:30:20,844 - WARNING - Resampled DataFrame for LINKUSD at 1H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,847 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_4H_processed.csv
+2024-10-16 10:30:20,849 - WARNING - Cannot resample empty DataFrame with frequency 4H.
+2024-10-16 10:30:20,851 - WARNING - Resampled DataFrame for LINKUSD at 4H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,854 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\LINKUSD\LINKUSD_1D_processed.csv
+2024-10-16 10:30:20,856 - WARNING - Cannot resample empty DataFrame with frequency 1D.
+2024-10-16 10:30:20,857 - WARNING - Resampled DataFrame for LINKUSD at 1D timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,863 - INFO - Found raw files for NEARUSD: ['NEARUSDT_1m.csv']
+2024-10-16 10:30:20,868 - ERROR - Error loading raw data for NEARUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\NEARUSD\NEARUSDT_1m.csv: No columns to parse from file
+2024-10-16 10:30:20,871 - WARNING - Received empty DataFrame for preprocessing.
+2024-10-16 10:30:20,874 - INFO - Saved processed data for NEARUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_1m_processed.csv
+2024-10-16 10:30:20,878 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_5m_processed.csv
+2024-10-16 10:30:20,881 - WARNING - Cannot resample empty DataFrame with frequency 5T.
+2024-10-16 10:30:20,884 - WARNING - Resampled DataFrame for NEARUSD at 5m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,888 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_15m_processed.csv
+2024-10-16 10:30:20,890 - WARNING - Cannot resample empty DataFrame with frequency 15T.
+2024-10-16 10:30:20,891 - WARNING - Resampled DataFrame for NEARUSD at 15m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,893 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_30m_processed.csv
+2024-10-16 10:30:20,895 - WARNING - Cannot resample empty DataFrame with frequency 30T.
+2024-10-16 10:30:20,896 - WARNING - Resampled DataFrame for NEARUSD at 30m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,897 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_1H_processed.csv
+2024-10-16 10:30:20,901 - WARNING - Cannot resample empty DataFrame with frequency 1H.
+2024-10-16 10:30:20,902 - WARNING - Resampled DataFrame for NEARUSD at 1H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,918 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_4H_processed.csv
+2024-10-16 10:30:20,920 - WARNING - Cannot resample empty DataFrame with frequency 4H.
+2024-10-16 10:30:20,921 - WARNING - Resampled DataFrame for NEARUSD at 4H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,923 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\NEARUSD\NEARUSD_1D_processed.csv
+2024-10-16 10:30:20,925 - WARNING - Cannot resample empty DataFrame with frequency 1D.
+2024-10-16 10:30:20,926 - WARNING - Resampled DataFrame for NEARUSD at 1D timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,931 - INFO - Found raw files for SOLUSD: ['SOLUSDT_1m.csv']
+2024-10-16 10:30:20,934 - ERROR - Error loading raw data for SOLUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\SOLUSD\SOLUSDT_1m.csv: No columns to parse from file
+2024-10-16 10:30:20,936 - WARNING - Received empty DataFrame for preprocessing.
+2024-10-16 10:30:20,940 - INFO - Saved processed data for SOLUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_1m_processed.csv
+2024-10-16 10:30:20,943 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_5m_processed.csv
+2024-10-16 10:30:20,945 - WARNING - Cannot resample empty DataFrame with frequency 5T.
+2024-10-16 10:30:20,956 - WARNING - Resampled DataFrame for SOLUSD at 5m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,957 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_15m_processed.csv
+2024-10-16 10:30:20,959 - WARNING - Cannot resample empty DataFrame with frequency 15T.
+2024-10-16 10:30:20,960 - WARNING - Resampled DataFrame for SOLUSD at 15m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,961 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_30m_processed.csv
+2024-10-16 10:30:20,966 - WARNING - Cannot resample empty DataFrame with frequency 30T.
+2024-10-16 10:30:20,967 - WARNING - Resampled DataFrame for SOLUSD at 30m timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,973 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_1H_processed.csv
+2024-10-16 10:30:20,975 - WARNING - Cannot resample empty DataFrame with frequency 1H.
+2024-10-16 10:30:20,976 - WARNING - Resampled DataFrame for SOLUSD at 1H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,980 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_4H_processed.csv
+2024-10-16 10:30:20,982 - WARNING - Cannot resample empty DataFrame with frequency 4H.
+2024-10-16 10:30:20,983 - WARNING - Resampled DataFrame for SOLUSD at 4H timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,985 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\SOLUSD\SOLUSD_1D_processed.csv
+2024-10-16 10:30:20,987 - WARNING - Cannot resample empty DataFrame with frequency 1D.
+2024-10-16 10:30:20,990 - WARNING - Resampled DataFrame for SOLUSD at 1D timeframe is empty. Skipping saving.
+2024-10-16 10:30:20,992 - INFO - Found raw files for WIFUSD: ['WIFUSDT_1m.csv']
+2024-10-16 10:30:20,997 - ERROR - Error loading raw data for WIFUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\WIFUSD\WIFUSDT_1m.csv: No columns to parse from file
+2024-10-16 10:30:21,000 - WARNING - Received empty DataFrame for preprocessing.
+2024-10-16 10:30:21,003 - INFO - Saved processed data for WIFUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_1m_processed.csv
+2024-10-16 10:30:21,005 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_5m_processed.csv
+2024-10-16 10:30:21,008 - WARNING - Cannot resample empty DataFrame with frequency 5T.
+2024-10-16 10:30:21,009 - WARNING - Resampled DataFrame for WIFUSD at 5m timeframe is empty. Skipping saving.
+2024-10-16 10:30:21,011 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_15m_processed.csv
+2024-10-16 10:30:21,014 - WARNING - Cannot resample empty DataFrame with frequency 15T.
+2024-10-16 10:30:21,016 - WARNING - Resampled DataFrame for WIFUSD at 15m timeframe is empty. Skipping saving.
+2024-10-16 10:30:21,018 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_30m_processed.csv
+2024-10-16 10:30:21,020 - WARNING - Cannot resample empty DataFrame with frequency 30T.
+2024-10-16 10:30:21,021 - WARNING - Resampled DataFrame for WIFUSD at 30m timeframe is empty. Skipping saving.
+2024-10-16 10:30:21,022 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_1H_processed.csv
+2024-10-16 10:30:21,024 - WARNING - Cannot resample empty DataFrame with frequency 1H.
+2024-10-16 10:30:21,025 - WARNING - Resampled DataFrame for WIFUSD at 1H timeframe is empty. Skipping saving.
+2024-10-16 10:30:21,027 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_4H_processed.csv
+2024-10-16 10:30:21,035 - WARNING - Cannot resample empty DataFrame with frequency 4H.
+2024-10-16 10:30:21,035 - WARNING - Resampled DataFrame for WIFUSD at 4H timeframe is empty. Skipping saving.
+2024-10-16 10:30:21,037 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\WIFUSD\WIFUSD_1D_processed.csv
+2024-10-16 10:30:21,039 - WARNING - Cannot resample empty DataFrame with frequency 1D.
+2024-10-16 10:30:21,040 - WARNING - Resampled DataFrame for WIFUSD at 1D timeframe is empty. Skipping saving.
+2024-10-16 11:03:38,022 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-16 11:03:38,024 - INFO - Detected assets: ['BTCUSD', 'ETHUSD', 'EURUSD', 'GBPUSD', 'LINKUSD', 'NEARUSD', 'SOLUSD', 'WIFUSD']
+2024-10-16 11:03:38,024 - INFO - Found raw files for BTCUSD: ['BTCUSDT_1m.csv']
+2024-10-16 11:03:43,154 - INFO - Loaded raw data for BTCUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\BTCUSD\BTCUSDT_1m.csv
+2024-10-16 11:03:43,238 - INFO - Dropped 0 rows with missing values.
+2024-10-16 11:03:43,452 - INFO - Sorted data by timestamp.
+2024-10-16 11:03:43,698 - INFO - DataFrame now has 2167693 rows after preprocessing.
+2024-10-16 11:04:05,901 - INFO - Saved processed data for BTCUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-16 11:04:05,902 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-16 11:04:06,445 - INFO - Resampled data to frequency 5T.
+2024-10-16 11:04:13,081 - INFO - Saved processed data for BTCUSD at 5m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-16 11:04:13,082 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_15m_processed.csv
+2024-10-16 11:04:13,527 - INFO - Resampled data to frequency 15T.
+2024-10-16 11:04:15,945 - INFO - Saved processed data for BTCUSD at 15m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_15m_processed.csv
+2024-10-16 11:04:15,946 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_30m_processed.csv
+2024-10-16 11:04:16,291 - INFO - Resampled data to frequency 30T.
+2024-10-16 11:04:17,546 - INFO - Saved processed data for BTCUSD at 30m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_30m_processed.csv
+2024-10-16 11:04:17,547 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-16 11:04:17,927 - INFO - Resampled data to frequency 1H.
+2024-10-16 11:04:18,612 - INFO - Saved processed data for BTCUSD at 1H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-16 11:04:18,613 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_4H_processed.csv
+2024-10-16 11:04:18,958 - INFO - Resampled data to frequency 4H.
+2024-10-16 11:04:19,182 - INFO - Saved processed data for BTCUSD at 4H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_4H_processed.csv
+2024-10-16 11:04:19,184 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1D_processed.csv
+2024-10-16 11:04:19,581 - INFO - Resampled data to frequency 1D.
+2024-10-16 11:04:19,653 - INFO - Saved processed data for BTCUSD at 1D timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1D_processed.csv
+2024-10-16 11:04:19,668 - INFO - Found raw files for ETHUSD: ['ETHUSDT_1m.csv']
+2024-10-16 11:04:27,764 - INFO - Loaded raw data for ETHUSD from C:/Users/IQRA/Desktop/Qafary Framework/data/raw\ETHUSD\ETHUSDT_1m.csv
+2024-10-16 11:04:27,877 - INFO - Dropped 0 rows with missing values.
+2024-10-16 11:04:28,131 - INFO - Sorted data by timestamp.
+2024-10-16 11:04:28,444 - INFO - DataFrame now has 2167739 rows after preprocessing.
+2024-10-16 11:05:00,067 - INFO - Saved processed data for ETHUSD at 1m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-16 11:05:00,069 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-16 11:05:00,565 - INFO - Resampled data to frequency 5T.
+2024-10-16 11:05:07,018 - INFO - Saved processed data for ETHUSD at 5m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-16 11:05:07,019 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_15m_processed.csv
+2024-10-16 11:05:07,411 - INFO - Resampled data to frequency 15T.
+2024-10-16 11:05:09,658 - INFO - Saved processed data for ETHUSD at 15m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_15m_processed.csv
+2024-10-16 11:05:09,660 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_30m_processed.csv
+2024-10-16 11:05:10,001 - INFO - Resampled data to frequency 30T.
+2024-10-16 11:05:11,153 - INFO - Saved processed data for ETHUSD at 30m timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_30m_processed.csv
+2024-10-16 11:05:11,154 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-16 11:05:11,473 - INFO - Resampled data to frequency 1H.
+2024-10-16 11:05:12,021 - INFO - Saved processed data for ETHUSD at 1H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-16 11:05:12,022 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_4H_processed.csv
+2024-10-16 11:05:12,381 - INFO - Resampled data to frequency 4H.
+2024-10-16 11:05:12,533 - INFO - Saved processed data for ETHUSD at 4H timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_4H_processed.csv
+2024-10-16 11:05:12,535 - WARNING - Processed data file not found: C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1D_processed.csv
+2024-10-16 11:05:12,936 - INFO - Resampled data to frequency 1D.
+2024-10-16 11:05:12,980 - INFO - Saved processed data for ETHUSD at 1D timeframe to C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1D_processed.csv
+2024-10-16 11:05:12,981 - INFO - Found raw files for EURUSD: []
+2024-10-16 11:05:12,983 - WARNING - No raw data files found for asset EURUSD. Skipping.
+2024-10-16 11:05:12,986 - INFO - Found raw files for GBPUSD: []
+2024-10-16 11:05:12,988 - WARNING - No raw data files found for asset GBPUSD. Skipping.
+2024-10-16 11:05:12,989 - INFO - Found raw files for LINKUSD: []
+2024-10-16 11:05:12,990 - WARNING - No raw data files found for asset LINKUSD. Skipping.
+2024-10-16 11:05:12,991 - INFO - Found raw files for NEARUSD: []
+2024-10-16 11:05:12,991 - WARNING - No raw data files found for asset NEARUSD. Skipping.
+2024-10-16 11:05:12,992 - INFO - Found raw files for SOLUSD: []
+2024-10-16 11:05:12,994 - WARNING - No raw data files found for asset SOLUSD. Skipping.
+2024-10-16 11:05:12,997 - INFO - Found raw files for WIFUSD: []
+2024-10-16 11:05:12,999 - WARNING - No raw data files found for asset WIFUSD. Skipping.
+2024-10-17 20:25:33,270 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 20:25:39,896 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 20:25:41,086 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 20:25:41,215 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 20:25:46,570 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 20:25:47,668 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 20:25:47,795 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 20:58:54,918 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 20:59:01,405 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 20:59:02,406 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 20:59:02,503 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 20:59:07,394 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 20:59:08,378 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 20:59:08,545 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 21:12:54,769 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:13:01,233 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 21:13:02,632 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 21:13:02,746 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 21:13:08,425 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 21:13:09,615 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 21:13:09,761 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 21:16:12,937 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:16:18,054 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 21:16:19,106 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 21:16:19,212 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 21:16:24,955 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 21:16:26,703 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 21:16:26,814 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 21:18:03,857 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:18:10,000 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 21:18:11,699 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 21:18:11,883 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 21:18:18,883 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 21:18:20,516 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 21:18:20,711 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 21:25:48,515 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:25:54,746 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 21:25:56,389 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 21:25:56,505 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 21:26:02,271 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 21:26:03,442 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 21:26:03,565 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 21:27:02,533 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:27:07,704 - INFO - Loaded processed data for BTCUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv
+2024-10-17 21:27:08,714 - INFO - Loaded processed data for BTCUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv
+2024-10-17 21:27:08,823 - INFO - Loaded processed data for BTCUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv
+2024-10-17 21:27:13,484 - INFO - Loaded processed data for ETHUSD at 1m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv
+2024-10-17 21:27:14,616 - INFO - Loaded processed data for ETHUSD at 5m timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv
+2024-10-17 21:27:14,735 - INFO - Loaded processed data for ETHUSD at 1H timeframe from C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv
+2024-10-17 21:32:26,869 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:32:26,875 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:26,887 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:26,897 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:26,908 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:26,924 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:26,941 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:37,469 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:32:37,474 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:37,482 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_5m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:37,491 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\BTCUSD\BTCUSD_1H_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:37,497 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:37,502 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_5m_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:32:37,507 - ERROR - Error reading C:/Users/IQRA/Desktop/Qafary Framework/data/processed\ETHUSD\ETHUSD_1H_processed.csv: Missing column provided to 'parse_dates': 'Date'
+2024-10-17 21:38:07,703 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:39:09,293 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:44:16,395 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 21:49:48,943 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-17 22:07:50,898 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 14:50:11,954 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 15:11:32,450 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 15:12:47,307 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 16:54:39,779 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 20:44:40,077 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 20:46:58,677 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 21:04:32,447 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 21:36:03,348 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 22:08:37,400 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 22:26:43,407 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 22:28:13,789 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 22:30:14,885 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 22:49:18,000 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-18 23:05:20,623 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 14:33:05,809 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 14:34:28,915 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 14:35:10,556 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 14:50:34,399 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 14:51:55,113 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 14:56:46,884 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:04:25,743 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:13:45,793 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:29:08,894 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:31:21,783 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:49:32,488 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:51:20,562 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 15:57:27,498 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 16:04:27,176 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 17:14:26,249 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 17:23:05,627 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-19 17:24:35,383 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-21 11:33:38,240 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-21 14:36:50,998 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:04:13,824 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:07:08,159 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:11:46,080 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:16:45,243 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:26:35,452 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:31:28,641 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:36:46,597 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 08:49:25,843 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 09:01:14,037 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 09:14:21,126 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 09:25:34,629 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 09:30:44,661 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 11:38:30,579 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 11:55:01,101 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 12:01:12,651 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 12:08:18,929 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 13:00:35,596 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 14:31:04,958 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 14:32:11,591 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 14:33:27,472 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 15:23:54,122 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 17:56:18,996 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 18:02:23,209 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 18:04:46,564 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 19:38:36,180 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 21:30:49,744 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 22:03:37,340 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 22:06:35,203 - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed

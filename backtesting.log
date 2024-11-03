@@ -1,0 +1,15 @@
+2024-10-27 22:06:14,509 - Main - INFO - Starting Qafary Framework Process.
+2024-10-27 22:06:21,367 - Main - INFO - User selected asset: BTCUSD
+2024-10-27 22:06:32,568 - Main - INFO - User selected timeframes: ['5m', '1H']
+2024-10-27 22:06:35,201 - Main - INFO - User selected strategy: BreakoutMTFStrategy
+2024-10-27 22:06:35,203 - DataManager - INFO - Initialized DataManager with raw data path: C:/Users/IQRA/Desktop/Qafary Framework/data/raw and processed data path: C:/Users/IQRA/Desktop/Qafary Framework/data/processed
+2024-10-27 22:06:36,949 - Main - INFO - Loaded data for BTCUSD at 5m timeframe with 433541 records.
+2024-10-27 22:06:37,074 - Main - INFO - Loaded data for BTCUSD at 1H timeframe with 36133 records.
+2024-10-27 22:06:49,204 - Main - INFO - Set tp_percent to 14.0
+2024-10-27 22:06:56,705 - Main - INFO - Set sl_percent to 7.0
+2024-10-27 22:06:58,793 - Main - INFO - Set higher_tf_short_ma to 20
+2024-10-27 22:07:01,054 - Main - INFO - Set higher_tf_long_ma to 50
+2024-10-27 22:07:04,973 - Main - INFO - Set primary_tf to 5m
+2024-10-27 22:07:07,585 - Main - INFO - Set higher_tf to 1H
+2024-10-27 22:07:10,690 - Main - INFO - Set requires_multiple_timeframes to True
+2024-10-27 22:07:10,692 - Main - INFO - Running Backtest without Optimization.
