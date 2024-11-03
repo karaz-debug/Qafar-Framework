@@ -1,8 +1,7 @@
 # Algo Trading Framework (Qafary Framework)
 
-![Trading System Banner](https://github.com/yourusername/automated-trading-system/blob/main/assets/trading-system-banner.png)
 
-**Algo Trading Framework (Qafary Framework)** is a modular, scalable, and efficient algorithmic trading platform designed to execute, backtest, and optimize trading strategies across multiple centralized and decentralized brokers. Leveraging real-time data, sophisticated trading algorithms, and comprehensive reporting tools, this framework empowers traders and developers to automate their trading activities with precision and reliability.
+**Algo Trading Framework (Qafary Framework)** is a modular, scalable, and efficient algorithmic trading platform designed to  backtest, and optimize trading strategies with different need in terms of timeframes, and comprehensive reporting tools, this framework empowers traders and developers to backtest and optimize  their trading strategies in order to find best paramters to play with in the live market 
 
 ---
 
@@ -37,7 +36,7 @@
 
 ## Project Overview
 
-The **Algo Trading Framework (Qafary Framework)** is engineered to facilitate the development, testing, and optimization of trading strategies across various assets and timeframes. By integrating multiple brokers and exchanges, the framework offers a unified platform for executing automated trades, conducting rigorous backtests, and fine-tuning strategies to achieve optimal performance.
+The **Algo Trading Framework (Qafary Framework)** is engineered to facilitate the development, testing, and optimization of trading strategies across various assets and timeframes.The framework offers a unified platform for executing automated trades, conducting rigorous backtests, and fine-tuning strategies to achieve optimal performance.
 
 ---
 
